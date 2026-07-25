@@ -70,6 +70,142 @@ A living catalog of every tool, product, open-source project, dataset, AI servic
 
 ---
 
+## 📦 Awesome LLM Apps Repo
+
+**Repo:** `Shubhamsaboo/awesome-llm-apps` — **128K ⭐** — **Apache-2.0** — [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+**Creator:** Shubham Saboo (Sr. AI PM @ Google, Unwind AI newsletter, 350K+ AI dev community)
+**License:** Apache-2.0 → clone, ship, sell free
+**Last commit:** Jul 23, 2026 (very active, weekly drops)
+**Models:** Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen
+
+### 🧩 Agent Skills (installable into Claude Code / Codex / Cursor)
+| Skill | What It Does | Business Fit |
+|-------|-------------|-------------|
+| Project Graveyard | Autopsies your dead side projects, tells you why | TFG (debug why projects stall) |
+| Scope Creep Detector | Checks if a diff grew beyond stated intent | ProposalPal (scope control) |
+| Commit Archaeologist | Reconstructs why any code exists via git | Dev workflows |
+| Advisor Orchestrator Worker | Meta loop: Claude Fable 5 → GPT → Gemini | AI Night School curriculum |
+| Self-Improving Agent Skills | Skills that rewrite themselves against evals | All (teaches agents to improve) |
+
+### 🌱 Starter AI Agents (single-file, 1 API key)
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| Meme Generator | Makes memes by driving a real browser | TFG social content |
+| Music Generator | Prompt → MP3 track out | TFG, content creation |
+| Travel Agent | Day-by-day personalized itineraries | General |
+| Gemini Multimodal Agent | Video analysis + web search in one | AI Night School demos |
+| Mixture of Agents | Multiple LLMs answer, one aggregates best | ProposalPal research |
+| xAI Finance Agent | Real-time stock analysis via Grok | Personal finance |
+| OpenAI Research Agent | Multi-agent topic research | ProposalPal, myAdjusterPRO |
+| Web Scraping AI Agent | Describe what to extract, agent scrapes it | ProposalPal grant data |
+| Data Analysis Agent | Query CSV/Excel in plain English | ProposalPal analytics |
+| Medical Imaging Agent | X-ray/scan diagnostics with Gemini | General |
+| Breakup Recovery Agent | Agent team that talks you through it | Fun / content |
+| Blog to Podcast Agent | Turn any blog URL into narrated podcast | TFG, AI Night School content |
+
+### 🚀 Advanced AI Agents (production-style)
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| AI Deep Research Agent | Comprehensive web research (OpenAI + Firecrawl) | ProposalPal (grant research) |
+| AI VC Due Diligence Agent Team | Multi-agent startup investment analysis | myAdjusterPRO investor pitch |
+| AI Research Planner & Executor | Multi-phase research + auto-infographics | ProposalPal |
+| AI Consultant Agent | Market analysis + strategy with web research | All (strategic planning) |
+| AI System Architect Agent | Architecture reviews (DeepSeek R1 + Claude) | Dev workflows |
+| AI Fraud Investigation Agent | Cross-references public records | **myAdjusterPRO** 🎯 |
+| AI Home Renovation Agent | Photo → renovation renders | Content / demo |
+| DevPulse AI | Multi-agent signal intelligence digest | General monitoring |
+| AI Product Launch Intelligence Agent | Competitor launch GTM intelligence | ProposalPal, myAdjusterPRO |
+| AI Financial Coach Agent | Budget, debt, savings analysis | Personal finance |
+| AI Investment Agent | Stock comparison (Yahoo Finance) | Personal finance |
+| Earnings Call Analyst Agent | YouTube earnings → analyst workspace | myAdjusterPRO (public co claims) |
+| AI Health & Fitness Agent | Diet + workout plans from goals | General |
+| AI Journalist Agent | Researches, writes, edits articles | TFG content, AI Night School |
+| AI Mental Wellbeing Agent | Coordinated support plans | General |
+| AI Meeting Agent | Context, insights, strategy briefs pre-meeting | Sales / partnerships |
+| AI Self-Evolving Agent | Rewrites its own workflows (EvoAgentX) | R&D |
+| AI Sales Intelligence Agent Team | Competitive battle cards in real-time | ProposalPal, myAdjusterPRO |
+| AI Social Media News & Podcast Agent | Curated briefs + generated podcasts | TFG content automation |
+| Trust-Gated Multi-Agent Team | Hash-chained audit trail per action | Compliance (insurance) |
+
+### 🤝 Multi-Agent Teams
+| Team | What It Does | Business Fit |
+|------|-------------|-------------|
+| Competitor Intelligence Agent Team | Structured competitor teardowns | ProposalPal |
+| Finance Agent Team | Analyst team in 20 lines of Python | Personal finance |
+| Legal Agent Team | Research + contract analysis | myAdjusterPRO (claims disputes) |
+| Real Estate Agent Team | Property search + market analysis | General |
+| Recruitment Agent Team | Resume screening → interview scheduling | Hiring |
+| Teaching Agent Team | Faculty of agents for learning paths | **AI Night School** 🎯 |
+| Services Agency (CrewAI) | Digital agency that scopes software projects | ProposalPal dev |
+| Game Design Agent Team | Full game concepts from design specialists | Content |
+| Multimodal Coding Agent Team | Photo of bug → sandboxed solution | Dev workflows |
+| Design Agent Team | Design critiques from Gemini panel | Brand |
+| UI/UX Feedback Agent Team | Landing page feedback + auto-improved version | All products |
+| Travel Planner Agent Team | Complete trip itinerary | General |
+
+### 🗣️ Voice AI Agents
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| Insurance Claim Live Agent Team | Real-time voice claim intake (Gemini Live) | **myAdjusterPRO** 🎯🎯 |
+| Customer Support Voice Agent | Voice answers grounded in your docs | Possum, myAdjusterPRO |
+| Voice RAG Agent (OpenAI SDK) | Ask PDFs questions, hear answers | All (document queries) |
+| AI Audio Tour Agent | Self-guided audio tours | Content |
+
+### ♾️ MCP AI Agents
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| Browser MCP Agent | Drive a real browser via natural language | Web automation |
+| GitHub MCP Agent | Explore/analyze repos in English | Dev workflows |
+| Notion MCP Agent | Talk to Notion from terminal | Internal docs |
+| Travel Planner MCP Agent | Itineraries on live Airbnb + Google Maps data | General |
+| Multi-MCP Agent Router | Specialists, each wired to its own MCP server | **System architecture template** |
+
+### 🖼️ Generative UI Agents (interactive UI, not just text)
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| Generative UI Starter Project | Chat-driven kanban board | MVP prototyping |
+| AI Dashboard Canvas Agent | Describe a dashboard → live canvas charts | ProposalPal analytics |
+| AI MCP App Builder | Describe an MCP app → live sandboxed instance | Rapid prototyping |
+| AI Shadcn Component Generator | Chat to production-ready shadcn components | All (UI dev) |
+| AI Deep Research Agent (UI) | Research with live workspace cards | ProposalPal |
+
+### 🎮 Game-Playing Agents
+| Agent | What It Does |
+|-------|-------------|
+| AI 3D Pygame Agent | DeepSeek R1 writes PyGame code, runs live |
+| AI Chess Agent | Agent White vs Agent Black |
+| AI Tic-Tac-Toe Agent | Two LLMs battle move by move |
+
+### 🛰️ Always-on Agents (scheduled background)
+| Agent | What It Does | Business Fit |
+|-------|-------------|-------------|
+| HN Briefing Agent | Daily ranked brief to Slack/email | General monitoring |
+| Release Radar Agent | Watches dependency releases for breaking/security | Dev ops |
+
+### 📀 RAG Tutorials (20+ patterns)
+| Tutorial | What It Covers | Business Fit |
+|----------|---------------|-------------|
+| Multimodal Agentic RAG | Gemini Embedding 2 + Google ADK | AI Night School curriculum |
+| Deep Research RAG | Firecrawl + Gemini for comprehensive research | ProposalPal |
+| Internet RAG | Multi-model internet-augmented generation | General |
+| Enterprise RAG | Exa + Agno for business data | myAdjusterPRO |
+| Voice RAG | Ask PDFs, hear answers (OpenAI SDK) | Possum |
+
+### 🏆 Top Picks Per Business
+
+| Business | Highest-Value Templates |
+|----------|------------------------|
+| **myAdjusterPRO** 🥇 | Insurance Claim Live Agent Team, Fraud Investigation Agent, Legal Agent Team, Earnings Call Analyst, Customer Support Voice, Sales Intelligence Team, Trust-Gated Agent Team |
+| **ProposalPal** | Deep Research Agent, Consultant Agent, Competitor Intelligence Team, Web Scraping Agent, Sales Intelligence Team, Dashboard Canvas Agent, Data Analysis Agent |
+| **AI Night School** | Teaching Agent Team, Medical Imaging Agent, Agent Skill tutorials, RAG tutorials, Self-Evolving Agent, System Architect Agent |
+| **TFG / Content** | Blog to Podcast Agent, Journalist Agent, Music Generator, Meme Generator, Social Media News Agent, Audio Tour Agent |
+| **Possum** | Customer Support Voice Agent, Voice RAG Agent, Always-on Agents |
+
+> ⚠️ **Warning:** All templates use cloud LLM APIs (OpenAI, Gemini, Anthropic). None are optimized for local Jetson inference. But the architectures are reusable — swap the model provider for local models.
+
+---
+
 ## 📋 Research & Web Tools
 
 ### Web Data
@@ -327,81 +463,29 @@ A living catalog of every tool, product, open-source project, dataset, AI servic
 - **obliteratus** — Abliterate LLM refusals
 
 ### Smart Home
-- **openhue** — Philips Hue lights, scenes, rooms
+- **openhue** — Philips Hue lights, scenes, rooms via OpenHue CLI
+
+### Computer Use
+- **computer-use** — Desktop automation (click, type, scroll, drag) via cua-driver
+
+### Web Development
+- **cloudflare-temporary-deploy** — Deploy Worker live, no account
+- **page-agent** — Embed alibaba/page-agent into web applications
+
+### MCP
+- **fastmcp** — Build, test, inspect, install, deploy MCP servers
+- **mcporter** — List, configure, auth, call MCP servers via CLI
+
+### Migration
+- **openclaw-migration** — Migrate OpenClaw customization footprint into Hermes
 
 ### Email
-- **agentmail** — Dedicated agent email inbox
-- **himalaya** — IMAP/SMTP terminal email
+- **agentmail** — Dedicated AI agent email inbox via AgentMail
+- **himalaya** — IMAP/SMTP email from terminal
+
+### Telephony
+- **telephony** — Phone capabilities via Hermes CLI
 
 ---
 
-## 🧩 Skills Catalog (Quick Reference)
-
-All Hermes skills organized by category:
-
-| Category | Skills |
-|----------|--------|
-| **agent-reach** | agent-reach |
-| **autonomous-ai-agents** | antigravity-cli, blackbox, claude-code, codex, grok, hermes-agent, honcho, opencode, openhands |
-| **communication** | one-three-one-rule, telegram-chat-organization |
-| **computer-use** | computer-use |
-| **creative** | architecture-diagram, ascii-art, ascii-video, baoyu-infographic, brand-surface-deployment, claude-design, comfyui, concept-diagrams, creative-ideation, creator-ecosystem-brand-rollout, creator-funnel-copy-architecture, design-md, excalidraw, humanizer, hyperframes, manim-video, meme-generation, p5js, popular-web-designs, pretext, sketch, songwriting-and-ai-music, touchdesigner-mcp, youtube-creator-branding, youtube-personal-branding |
-| **data-science** | jupyter-live-kernel |
-| **devops** | docker-management, hermes-multi-instance-deployment, inference-sh-cli, local-llm-with-hermes, omniroute-browser-use, pinggy-tunnel, watchers |
-| **dogfood** | adversarial-ux-test, dogfood |
-| **email** | agentmail, himalaya |
-| **finance** | 3-statement-model, coinpicks-trade-executor, comps-analysis, dcf-model, excel-author, lbo-model, merger-model, pptx-author, stocks |
-| **firecrawl** | firecrawl (15+ sub-skills: scrape, search, map, crawl, extract, agent, monitor, etc.) |
-| **github** | codebase-inspection, github-auth, github-code-review, github-issues, github-pr-workflow, github-repo-management |
-| **hermes-skills-catalog** | hermes-skills-catalog |
-| **make** | make-api-shell-connection-workflow, make-e2b-code-execution, make-mcp-reference, make-module-configuring, make-scenario-building |
-| **mcp** | fastmcp, mcporter |
-| **media** | gif-search, heartmula, songsee, youtube-channel-research, youtube-content |
-| **migration** | openclaw-migration |
-| **mlops** | chroma, clip, distributed-llm-pretraining-torchtitan, faiss, guidance, huggingface-accelerate, huggingface-hub, huggingface-tokenizers, instructor, lambda-labs-gpu-cloud, llava, modal-serverless-gpu, nemo-curator, obliteratus, optimizing-attention-flash, peft-fine-tuning, pinecone, pytorch-fsdp, pytorch-lightning, qdrant-vector-search, simpo-training, slime-rl-training, sparse-autoencoder-training, stable-diffusion-image-generation, tensorrt-llm, whisper |
-| **mlops/evaluation** | evaluating-llms-harness, weights-and-biases |
-| **mlops/inference** | llama-cpp, outlines, serving-llms-vllm |
-| **mlops/models** | audiocraft-audio-generation, segment-anything-model |
-| **mlops/research** | dspy |
-| **mlops/training** | axolotl, fine-tuning-with-trl, unsloth |
-| **note-taking** | obsidian |
-| **payments** | mpp-agent, stripe-link-cli, stripe-projects |
-| **productivity** | airtable, canvas, company-builder, google-workspace, here.now, insurance-adjuster-ai-digital-product-systems, maps, memento-flashcards, nano-pdf, notion, ocr-and-documents, petdex, powerpoint, shop, shopify, siyuan, teams-meeting-pipeline, telephony |
-| **reference** | tool-catalog |
-| **research** | arxiv, bioinformatics, blogwatcher, darwinian-evolver, domain-intel, gitnexus-explorer, llm-wiki, osint-investigation, parallel-cli, polymarket, qmd, scrapling, youtube-channel-analysis |
-| **security** | 1password, godmode, oss-forensics, sherlock, unbroker, web-pentest |
-| **smart-home** | openhue |
-| **social-media** | autonetwork-tfgtv-posting, multi-platform-profile-deploy, xurl |
-| **software-development** | code-wiki, hermes-agent-skill-authoring, node-inspect-debugger, plan, python-debugpy, requesting-code-review, rest-graphql-debug, simplify-code, spike, subagent-driven-development, systematic-debugging, test-driven-development |
-| **web-development** | cloudflare-temporary-deploy, page-agent |
-| **yuanbao** | yuanbao |
-
----
-
-## 📋 Provisioning Queue
-
-Items that need API keys, OAuth, or setup before they can be used:
-
-| # | Resource | Type | For Biz | Priority |
-|---|----------|------|---------|----------|
-| 1 | **Email Marketing API** (ConvertKit/Mailchimp) | API Key | ProposalPal + AI Night School | 🔴 High |
-| 2 | **Twilio** (SID + Auth Token) | API Key | Possum | 🔴 High |
-| 3 | **Stripe** (Secret + Publishable keys) | API Key | ProposalPal + AI Night School | 🔴 High |
-| 4 | **Coinbase CDP API Key** | API Key | Crypto | 🟡 Medium |
-| 5 | **Airtable API Key** | API Key | All businesses | 🟡 Medium |
-| 6 | **Make.com OAuth** | OAuth Auth | Automation | 🟠 Low |
-| 7 | **Happyscribe OAuth** | OAuth Auth | Transcriptions | 🟠 Low |
-| 8 | **LiveKit** | API Key | Possum | 🟡 Medium |
-
----
-
-## 🗺️ Repo Map
-
-```
-blakailabs/tool-catalog/
-├── README.md        ← This file (living catalog)
-├── TOOL_CATALOG.md  ← Full catalog
-└── ...
-```
-
-*Last updated: 2026-07-24*
+*Last updated: 2026-07-25*
