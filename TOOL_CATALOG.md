@@ -286,6 +286,12 @@ A living catalog of every tool, product, open-source project, dataset, AI servic
 | **Make (Integromat)** | Automation workflows MCP | 🔧 Needs OAuth | Automation |
 | **n8n** | Open-source workflow automation (self-host) | ⚡ Available | Alternative to Make |
 
+### AI Avatar / Video Content
+| Tool | Description | Status | For |
+|------|-------------|--------|-----|
+| **HeyGen** | AI avatar video generation — 20min production, proven at 2.5M followers | 🔧 Needs Account | TFG, AI Night School, myAdjusterPRO |
+| **Synesthesia** | Alternative AI avatar + text-to-video platform | ⚡ Available | Content pipeline |
+
 ---
 
 ## 💼 Products & Businesses
